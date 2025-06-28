@@ -1,0 +1,8 @@
+<resources>
+<string name="logo_desc">App logo for Darmade</string>
+    <string name="fab_cart_description">Add to cart</string>
+    <string name="app_name">Darmade</string>
+    <string name="cart_description">Panier</string>
+    <string name="app_logo">Darmade Logo</string>
+
+</resources>

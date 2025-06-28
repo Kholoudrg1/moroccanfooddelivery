@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA500</color>        <!-- Orange -->
+    <color name="colorPrimaryDark">#FF8C00</color>    <!-- Dark Orange -->
+    <color name="colorAccent">#87CEEB</color>         <!-- Light Blue -->
+    <color name="colorBackground">#FFF8E1</color>     <!-- Light Yellow/Orange -->
+    <color name="colorText">#333333</color>           <!-- Dark Gray -->
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="orange">#FF9800</color>
+    <color name="green">#98D656</color><!-- White -->
+
+
+</resources>
